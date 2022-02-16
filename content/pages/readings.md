@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bde093dc-076e-12da-4fbe-ad8b45736eb0
 ---
@@ -23,7 +26,7 @@ TOPICS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1–4
 {{< tdclose >}}
 {{< tdopen >}}
