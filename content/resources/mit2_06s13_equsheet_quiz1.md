@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0fcf3a88-3948-54d8-e42e-05094e36d198
 resourcetype: Document
 title: 2.06 Fluid Dynamics, Quiz 1, Equation Sheet for Quiz 1
 uid: c2a17f45-7061-3f02-2589-778a376aaa0e

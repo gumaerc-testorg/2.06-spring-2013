@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 15135786-a98a-a11a-3963-ac109b5aafd4
 resourcetype: Document
 title: Fluid Dynamics, Contact Lens Example
 uid: c0fc330f-5d4a-01ce-5040-62cd356a7038

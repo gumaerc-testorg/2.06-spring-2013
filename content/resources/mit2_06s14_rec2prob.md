@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 97653dc4-c8fd-3086-b957-d5c696c03873
 resourcetype: Document
 title: Fluid Dynamics, Recitation 2 Problems
 uid: c50d4b00-d15a-d227-90c1-9a6f9c052048

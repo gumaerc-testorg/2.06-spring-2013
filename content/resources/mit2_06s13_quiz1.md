@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0fcf3a88-3948-54d8-e42e-05094e36d198
 resourcetype: Document
 title: Fluid Dynamics, Quiz 1.
 uid: 838dcaad-769b-13f4-4148-d60ac8ec9c2c

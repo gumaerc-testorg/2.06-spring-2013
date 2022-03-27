@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0fcf3a88-3948-54d8-e42e-05094e36d198
 resourcetype: Document
 title: 2.06 Fluid Dynamics, Practice Problem, Quiz 2
 uid: 1181d3d8-5829-25fe-4589-32817de64d2d
