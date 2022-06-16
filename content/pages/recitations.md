@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the recitation problems for the weekly recitation
+  sessions of the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ PROBLEMS
 Fluid Statics Examples
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 1 Problems (PDF)]({{< baseurl >}}/resources/mit2_06s14_rec1prob)
+{{% resource_link e5dc74eb-0528-fc5c-0d7c-67c929dd209b "Recitation 1 Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Fluid Statics Examples
 Hydrostatics Examples
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 2 Problems (PDF)]({{< baseurl >}}/resources/mit2_06s14_rec2prob)
+{{% resource_link c50d4b00-d15a-d227-90c1-9a6f9c052048 "Recitation 2 Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Hydrostatics Examples
 Hydrostatics and Surface Tension Examples
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 3 Problems (PDF)]({{< baseurl >}}/resources/mit2_06s14_rec3prob)
+{{% resource_link bd1758cf-65e5-6055-eaf6-2d5bdf68f21f "Recitation 3 Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Hydrostatics and Surface Tension Examples
 Open Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 4 Problems (PDF)]({{< baseurl >}}/resources/mit2_06s14_rec4prob)
+{{% resource_link 1132753d-e485-97a5-c41e-0e217af754cd "Recitation 4 Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Open Systems
 Continuity (Mass Conservation) and Navier-Stokes Equation
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 5 Problems (PDF)]({{< baseurl >}}/resources/mit2_06s14_rec5prob)
+{{% resource_link c2844fe4-33b7-cad4-5dac-106584c3d905 "Recitation 5 Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

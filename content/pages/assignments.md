@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course and details
+  on assignment policies.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,31 +21,31 @@ PROBLEM SETS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps1)
+{{% resource_link a389882d-6f0f-e2ea-461d-2754a1a33811 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps2)
+{{% resource_link 3fb089d5-224a-31df-3eba-68fa460afa6c "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps3)
+{{% resource_link 16562d6c-b196-9911-1522-5503da4cc375 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps4)
+{{% resource_link ebfc7396-f2aa-117e-f547-42e40d55aab0 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_06s13_ps5)
+{{% resource_link 58fd4bbf-198c-c9b9-d0a3-ab45baf7c01b "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
