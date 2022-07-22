@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, recitations, quizzes,
+  and assignment due dates for the course. Supplementary notes are also provided for
+  selected sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 15135786-a98a-a11a-3963-ac109b5aafd4
 ---
@@ -91,7 +96,7 @@ L4
 Surface Tension and Capillarity
 {{< tdclose >}}
 {{< tdopen >}}
-[Note on Surface Tension (PDF)]({{< baseurl >}}/resources/mit2_06s13_notes_st)
+{{% resource_link 9018781e-7bd1-4c4e-c330-e940835144cd "Note on Surface Tension (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 1 Due
@@ -121,7 +126,7 @@ L5
 Open Systems: Control Volume Formulation, Conservation of Mass and Momentum
 {{< tdclose >}}
 {{< tdopen >}}
-[Contact Lens Example (PDF)]({{< baseurl >}}/resources/mit2_06s13_notes_lens)
+{{% resource_link c0fc330f-5d4a-01ce-5040-62cd356a7038 "Contact Lens Example (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 2 Due
@@ -196,7 +201,7 @@ L8
 Differential Forms: Mass Conservation, Substantial Derivative, Euler Equations
 {{< tdclose >}}
 {{< tdopen >}}
-[Vector Operator Notes (PDF)]({{< baseurl >}}/resources/mit2_06s13_notes_vo)
+{{% resource_link e9bcae55-054c-becc-94e8-297d45c85c6c "Vector Operator Notes (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 3 Due
