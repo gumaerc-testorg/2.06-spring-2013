@@ -6,6 +6,7 @@ file: /courses/2-06-fluid-dynamics-spring-2013/e5dc74eb0528fc5c0d7c67c929dd209b_
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Fluid Dynamics, Recitation 1 Problems
 uid: e5dc74eb-0528-fc5c-0d7c-67c929dd209b
 ---
 This resource contains information regarding fluid dynamics, recitation 1 problems.
-

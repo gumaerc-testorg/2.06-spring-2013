@@ -6,6 +6,7 @@ file: /courses/2-06-fluid-dynamics-spring-2013/71a8198a299f0fdfbe48bdccabf41ae1_
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2.06 Fluid Dynamics, Quiz 2, Equation Sheet for Quiz 2
 uid: 71a8198a-299f-0fdf-be48-bdccabf41ae1
 ---
 This information is regarding fluid dynamics, quiz 2, equation sheet for quiz 2. 
-
