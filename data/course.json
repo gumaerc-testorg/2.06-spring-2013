@@ -40,8 +40,10 @@
   },
   "learning_resource_types": [
     "Problem Sets",
-    "Exams"
+    "Exams",
+    "Instructor Insights"
   ],
-  "site_uid": "49f1b377-adf6-44bd-a725-2739735121c4",
+  "site_uid": "9e08b748-5a61-4dbd-8f3c-6394dba4084a",
+  "short_id": "2.06-spring-2013",
   "title": "Course Metadata"
 }
