@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quiz 1 practice problem.
 file: /courses/2-06-fluid-dynamics-spring-2013/c89d6c1f130927ffe1b9daa5d1827c81_MIT2_06S13_pracprbquiz1.pdf
+file_size: 797125
 file_type: application/pdf
 learning_resource_types:
 - Exams

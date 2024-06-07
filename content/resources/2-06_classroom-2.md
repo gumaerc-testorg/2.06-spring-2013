@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-06-fluid-dynamics-spring-2013/6fcaceba3fd3c56b2f838c7cb29c6b14_2-06_classroom-2.jpg
+file_size: 30457
 file_type: image/jpeg
 image_metadata:
   caption: ''
