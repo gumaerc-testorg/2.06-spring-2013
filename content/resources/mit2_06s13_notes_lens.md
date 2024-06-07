@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding fluid dynamics, contact
   lens example.
 file: /courses/2-06-fluid-dynamics-spring-2013/c0fc330f5d4a01ce504062cd356a7038_MIT2_06S13_notes_lens.pdf
+file_size: 132627
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
