@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This information is regarding fluid dynamics, quiz 2, equation sheet
   for quiz 2. '
-file: /courses/2-06-fluid-dynamics-spring-2013/71a8198a299f0fdfbe48bdccabf41ae1_MIT2_06S13_equsheet_quiz2.pdf
+file: /ol-ocw-studio-app/courses/2-06-fluid-dynamics-spring-2013/71a8198a299f0fdfbe48bdccabf41ae1_MIT2_06S13_equsheet_quiz2.pdf
 file_size: 139643
 file_type: application/pdf
 learning_resource_types:
