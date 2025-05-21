@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding fluid dynamics, vector operator
   notes.
-file: /ol-ocw-studio-app/courses/2-06-fluid-dynamics-spring-2013/e9bcae55054cbecc94e8297d45c85c6c_MIT2_06S13_notes_vo.pdf
+file: /courses/2-06-fluid-dynamics-spring-2013/e9bcae55054cbecc94e8297d45c85c6c_MIT2_06S13_notes_vo.pdf
 file_size: 107907
 file_type: application/pdf
 learning_resource_types: []

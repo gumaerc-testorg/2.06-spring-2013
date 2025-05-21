@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-06-fluid-dynamics-spring-2013/875eaa2f80cb840c4a59c95a21b0d3a0_2-06_classroom-1.jpg
+file: /courses/2-06-fluid-dynamics-spring-2013/875eaa2f80cb840c4a59c95a21b0d3a0_2-06_classroom-1.jpg
 file_size: 29567
 file_type: image/jpeg
 image_metadata:
