@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding fluid dynamics, recitation
   4 problems.
-file: /courses/2-06-fluid-dynamics-spring-2013/1132753de48597a5c41e0e217af754cd_MIT2_06S14_rec4prob.pdf
+file: /ol-ocw-studio-app/courses/2-06-fluid-dynamics-spring-2013/1132753de48597a5c41e0e217af754cd_MIT2_06S14_rec4prob.pdf
 file_size: 88576
 file_type: application/pdf
 learning_resource_types:
