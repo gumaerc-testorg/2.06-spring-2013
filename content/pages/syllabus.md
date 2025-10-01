@@ -28,7 +28,7 @@ This class provides students with an introduction to principal concepts and meth
 
 Students will have the opportunity to demonstrate a familiarity and ability to work on fluid mechanics. These outcomes will be demonstrated through an assessment of homework assignments and two quizzes.
 
-This class is part of the [Course 2-A curriculum](http://meche.mit.edu/academic/undergraduate/course2a/) for students whose academic and career goals demand greater breadth and flexibility than are allowed under the mechanical engineering program, Course 2. It is a half-term class.
+This class is part of the {{% resource_link "3e1a1d95-573d-4845-ae2b-2400504941a6" "Course 2-A curriculum" %}} for students whose academic and career goals demand greater breadth and flexibility than are allowed under the mechanical engineering program, Course 2. It is a half-term class.
 
 Textbook
 --------
@@ -97,4 +97,4 @@ Note: The class forum is not available to OCW users.
 Academic Honesty
 ----------------
 
-You have joined a community of scholars at MIT. In joining that community, you have inherently assented to embracing the values of that community. Among those values is a commitment to honesty with yourself, your peers and your faculty. Further discussion and links on these issues can be found at the mechanical engineering department's [Ethics & Integrity webpage](http://meche.mit.edu/life/ethics/).
+You have joined a community of scholars at MIT. In joining that community, you have inherently assented to embracing the values of that community. Among those values is a commitment to honesty with yourself, your peers and your faculty. Further discussion and links on these issues can be found at the mechanical engineering department's {{% resource_link "5b43be6d-444e-46f6-acbd-e9d3a141a5ad" "Ethics & Integrity webpage" %}}.
